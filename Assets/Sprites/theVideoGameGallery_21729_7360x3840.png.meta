@@ -1,0 +1,986 @@
+fileFormatVersion: 2
+guid: 06f178867c2396f489835c20ee296028
+timeCreated: 1495811880
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: theVideoGameGallery_21729_7360x3840_0
+    21300002: theVideoGameGallery_21729_7360x3840_1
+    21300004: theVideoGameGallery_21729_7360x3840_2
+    21300006: theVideoGameGallery_21729_7360x3840_3
+    21300008: theVideoGameGallery_21729_7360x3840_4
+    21300010: theVideoGameGallery_21729_7360x3840_5
+    21300012: theVideoGameGallery_21729_7360x3840_6
+    21300014: theVideoGameGallery_21729_7360x3840_7
+    21300016: theVideoGameGallery_21729_7360x3840_8
+    21300018: theVideoGameGallery_21729_7360x3840_9
+    21300020: theVideoGameGallery_21729_7360x3840_10
+    21300022: theVideoGameGallery_21729_7360x3840_11
+    21300024: theVideoGameGallery_21729_7360x3840_12
+    21300026: theVideoGameGallery_21729_7360x3840_13
+    21300028: theVideoGameGallery_21729_7360x3840_14
+    21300030: theVideoGameGallery_21729_7360x3840_15
+    21300032: theVideoGameGallery_21729_7360x3840_16
+    21300034: theVideoGameGallery_21729_7360x3840_17
+    21300036: theVideoGameGallery_21729_7360x3840_18
+    21300038: theVideoGameGallery_21729_7360x3840_19
+    21300040: theVideoGameGallery_21729_7360x3840_20
+    21300042: theVideoGameGallery_21729_7360x3840_21
+    21300044: theVideoGameGallery_21729_7360x3840_22
+    21300046: theVideoGameGallery_21729_7360x3840_23
+    21300048: theVideoGameGallery_21729_7360x3840_24
+    21300050: theVideoGameGallery_21729_7360x3840_25
+    21300052: theVideoGameGallery_21729_7360x3840_26
+    21300054: theVideoGameGallery_21729_7360x3840_27
+    21300056: theVideoGameGallery_21729_7360x3840_28
+    21300058: theVideoGameGallery_21729_7360x3840_29
+    21300060: theVideoGameGallery_21729_7360x3840_30
+    21300062: theVideoGameGallery_21729_7360x3840_31
+    21300064: theVideoGameGallery_21729_7360x3840_32
+    21300066: theVideoGameGallery_21729_7360x3840_33
+    21300068: theVideoGameGallery_21729_7360x3840_34
+    21300070: theVideoGameGallery_21729_7360x3840_35
+    21300072: theVideoGameGallery_21729_7360x3840_36
+    21300074: theVideoGameGallery_21729_7360x3840_37
+    21300076: theVideoGameGallery_21729_7360x3840_38
+    21300078: theVideoGameGallery_21729_7360x3840_39
+    21300080: theVideoGameGallery_21729_7360x3840_40
+    21300082: theVideoGameGallery_21729_7360x3840_41
+    21300084: theVideoGameGallery_21729_7360x3840_42
+    21300086: theVideoGameGallery_21729_7360x3840_43
+    21300088: theVideoGameGallery_21729_7360x3840_44
+    21300090: theVideoGameGallery_21729_7360x3840_45
+    21300092: theVideoGameGallery_21729_7360x3840_46
+    21300094: theVideoGameGallery_21729_7360x3840_47
+    21300096: theVideoGameGallery_21729_7360x3840_48
+    21300098: theVideoGameGallery_21729_7360x3840_49
+    21300100: theVideoGameGallery_21729_7360x3840_50
+    21300102: theVideoGameGallery_21729_7360x3840_51
+    21300104: theVideoGameGallery_21729_7360x3840_52
+    21300106: theVideoGameGallery_21729_7360x3840_53
+    21300108: theVideoGameGallery_21729_7360x3840_54
+    21300110: theVideoGameGallery_21729_7360x3840_55
+    21300112: theVideoGameGallery_21729_7360x3840_56
+    21300114: theVideoGameGallery_21729_7360x3840_57
+    21300116: theVideoGameGallery_21729_7360x3840_58
+    21300118: theVideoGameGallery_21729_7360x3840_59
+    21300120: theVideoGameGallery_21729_7360x3840_60
+    21300122: theVideoGameGallery_21729_7360x3840_61
+    21300124: theVideoGameGallery_21729_7360x3840_62
+    21300126: theVideoGameGallery_21729_7360x3840_63
+    21300128: theVideoGameGallery_21729_7360x3840_64
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_0
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3436
+        width: 97
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_1
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 3195
+        width: 298
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_2
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 3515
+        width: 309
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_3
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 3357
+        width: 171
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_4
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 3357
+        width: 391
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_5
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 3357
+        width: 291
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_6
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 3026
+        width: 291
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_7
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 3357
+        width: 298
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_8
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 3265
+        width: 169
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_9
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 3035
+        width: 212
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_10
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 3035
+        width: 309
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_11
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 3035
+        width: 298
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_12
+      rect:
+        serializedVersion: 2
+        x: 5594
+        y: 3035
+        width: 172
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3035
+        width: 308
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 3035
+        width: 209
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_15
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 3035
+        width: 171
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_16
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 3035
+        width: 228
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_17
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 2876
+        width: 169
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_18
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 2876
+        width: 209
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_19
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 3084
+        width: 280
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2559
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_21
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2877
+        width: 150
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1755
+        width: 330
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_23
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 2075
+        width: 169
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_24
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 1916
+        width: 168
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_25
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 2075
+        width: 169
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_26
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 2075
+        width: 169
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_27
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1755
+        width: 248
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_28
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1755
+        width: 309
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_29
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1755
+        width: 201
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_30
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1755
+        width: 212
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_31
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1755
+        width: 169
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_32
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 1755
+        width: 169
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_33
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 1755
+        width: 309
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_34
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 1816
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_35
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 1755
+        width: 230
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_36
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 1597
+        width: 191
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_37
+      rect:
+        serializedVersion: 2
+        x: 4954
+        y: 1755
+        width: 171
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_38
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 1755
+        width: 172
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1277
+        width: 7360
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_40
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 1597
+        width: 161
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_41
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 1597
+        width: 169
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_42
+      rect:
+        serializedVersion: 2
+        x: 5525
+        y: 1625
+        width: 158
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_43
+      rect:
+        serializedVersion: 2
+        x: 6395
+        y: 1575
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 954
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_45
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 954
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_46
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 954
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_47
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 954
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_48
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 796
+        width: 172
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_49
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 476
+        width: 172
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_50
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 1015
+        width: 649
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_51
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 634
+        width: 168
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_52
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 634
+        width: 168
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_53
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 634
+        width: 169
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_54
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 634
+        width: 169
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_55
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 476
+        width: 430
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_56
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 476
+        width: 331
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_57
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 634
+        width: 169
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_58
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 634
+        width: 169
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_59
+      rect:
+        serializedVersion: 2
+        x: 5037
+        y: 796
+        width: 327
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7360
+        height: 645
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_61
+      rect:
+        serializedVersion: 2
+        x: 6327
+        y: 476
+        width: 309
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_62
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 316
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_63
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 160
+        width: 325
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVideoGameGallery_21729_7360x3840_64
+      rect:
+        serializedVersion: 2
+        x: 5438
+        y: 160
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
